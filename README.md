@@ -42,7 +42,8 @@
 ## Мой стек технологий
 
 - 1С
-- Промт-инжениринг
+- Промт-инжениринг (Make, Zapier, Albato, API нейросетей ChatGPT, DeepSeek, GigaChat, YandexGPT)
+- Вайб-кодинг 
 - T-SQL
 - QlikView
 - Tableau
